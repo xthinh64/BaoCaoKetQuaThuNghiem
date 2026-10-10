@@ -12,3 +12,14 @@
 2. Viết các chương trình sắp xếp dãy theo các thuật toán QuickSort, HeapSort, MergeSort và chương trình gọi hàm sort của C++;
 3. Chạy thử nghiệm mỗi chương trình đã viết ở trên với bộ dữ liệu đã tạo, ghi nhận thời gian thực thi từng lần thử nghiệm
 4. Viết báo cáo thử nghiệm: kết quả thử nghiệm ở dạng bảng dữ liệu và dạng biểu đồ; nhận xét kết quả thực nghiệm; báo cáo nộp bằng file PDF
+
+## Biểu đồ thời gian thực hiện 
+
+- Test 1 đến test 5:
+  
+  <img width="1983" height="1158" alt="bieudo1" src="https://github.com/user-attachments/assets/2e9d05db-3241-4d7a-bc45-33f9d9408e0c" />
+
+- Test 6 đến test 10:
+
+  <img width="1983" height="1158" alt="bieudo2" src="https://github.com/user-attachments/assets/c0492448-c9fc-4475-a54f-099200e47bf6" />
+
